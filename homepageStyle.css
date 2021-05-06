@@ -28,7 +28,6 @@ main h1 {
 
 .explain-text {
   display: block;
-  width: 90%;
-  margin-right: 0 auto;
-  margin-left: 0 auto;
+  width: 85%;
+  margin-right: 32px;
 }
