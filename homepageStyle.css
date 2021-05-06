@@ -25,3 +25,7 @@ main h1 {
   border-radius: 5px;
   margin-bottom: 20px;
 }
+
+.explain-text {
+  font-size: 22px;
+}
