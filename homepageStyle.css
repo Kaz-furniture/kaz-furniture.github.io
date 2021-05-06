@@ -28,4 +28,6 @@ main h1 {
 
 .explain-text {
   font-size: 22px;
+  display: block;
+  margin: 24px;
 }
